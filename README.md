@@ -1,5 +1,8 @@
-### Hi there 👋
+#### Hello, I'm orzr ✨
 
+![Apple](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flate&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=realm&logoColor=white) ![swift](https://img.shields.io/badge/SwiftUI-2396F3.svg?style=flat&logo=pandas&logoColor=white) ![reactivex](https://img.shields.io/badge/RxSwift-B7178C.svg?style=flat&logo=jenkins&logoColor=white) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunAra25&hide=contribs,prs&show_icons=true&theme=radical)
 <!--
 **SunAra25/SunAra25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
