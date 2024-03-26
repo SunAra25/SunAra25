@@ -2,7 +2,7 @@
 
 ![Apple](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flate&logo=Swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white) ![swift](https://img.shields.io/badge/SwiftUI-2379F4.svg?style=flat&logo=swift&logoColor=white) ![reactivex](https://img.shields.io/badge/RxSwift-B7178C.svg?style=flat&logo=reactivex&logoColor=white) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunAra25&hide=contribs,prs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunAra25&hide=contribs,prs&show_icons=true&theme=dracula)
 
 <!--
 **SunAra25/SunAra25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
